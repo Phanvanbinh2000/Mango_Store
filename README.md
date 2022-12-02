@@ -1,7 +1,7 @@
-  <h1 align="center"><b>ManGo STORE WEBSITE</b></h1>
+  <h1 align="center"><b>TTB STORE WEBSITE</b></h1>
 
-- ## ManGo là một website về cửa hàng thiết bị điện tử.
-- ## Link demo: 
+- ## TTB Store là một website về cửa hàng thiết bị điện tử.
+- ## Link demo: https://ttbstorevn.web.app/
 
 - ## ✨ **Tính năng**
 
@@ -42,14 +42,6 @@
   > cd Back-end -> yarn install
   > cd Front-end -> yarn install
   ```
-  ```
-  > cd Back-end -> npm install
-  > cd Front-end -> npm install
-  ```
-  ```
-  > cd Back-end -> npm run dev
-  > cd Front-end -> npm start
-  ```
 
 - ## 🔨 **Run project**
   - Thay file .local.env bằng file .env và thay các giá trị trong file .env. Sau đó, chạy các lệnh sau:
@@ -60,9 +52,5 @@
   ```
 - ## 🌍 **Document API**
   `> browser: http://localhost:3000/api-docs/`
- 
+  mongodb://localhost/ttb-store
 
-# Mango_Store
-#ManGo-Store-hoàn
-# ManGo-Store-complete
-# ManGo-Store-complete

@@ -1,5 +1,5 @@
 {
-  "name": "ManGo",
+  "name": "TTB_Store",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -23,7 +23,6 @@
     "start": "node index.js",
     "dev": "set NODE_ENV=development&&nodemon --inspect index.js",
     "test": "set NODE_ENV=production&&nodemon --inspect index.js"
-    
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
